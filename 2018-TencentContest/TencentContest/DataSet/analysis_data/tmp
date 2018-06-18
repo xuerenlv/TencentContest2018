@@ -1,0 +1,7 @@
+analysis: ../preliminary_contest_data/train.csv
+交互数目： 8798814
+用户数： 7883466
+广告数： 173
+label数:  2
+label，正例:  421961
+label，负例:  8376853
